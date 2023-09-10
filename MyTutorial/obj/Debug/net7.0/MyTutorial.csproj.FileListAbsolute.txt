@@ -1,0 +1,14 @@
+C:\Users\GIDEON QA\source\repos\DotNetTutorial\MyTutorial\bin\Debug\net7.0\MyTutorial.exe
+C:\Users\GIDEON QA\source\repos\DotNetTutorial\MyTutorial\bin\Debug\net7.0\MyTutorial.deps.json
+C:\Users\GIDEON QA\source\repos\DotNetTutorial\MyTutorial\bin\Debug\net7.0\MyTutorial.runtimeconfig.json
+C:\Users\GIDEON QA\source\repos\DotNetTutorial\MyTutorial\bin\Debug\net7.0\MyTutorial.dll
+C:\Users\GIDEON QA\source\repos\DotNetTutorial\MyTutorial\bin\Debug\net7.0\MyTutorial.pdb
+C:\Users\GIDEON QA\source\repos\DotNetTutorial\MyTutorial\obj\Debug\net7.0\MyTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIDEON QA\source\repos\DotNetTutorial\MyTutorial\obj\Debug\net7.0\MyTutorial.AssemblyInfoInputs.cache
+C:\Users\GIDEON QA\source\repos\DotNetTutorial\MyTutorial\obj\Debug\net7.0\MyTutorial.AssemblyInfo.cs
+C:\Users\GIDEON QA\source\repos\DotNetTutorial\MyTutorial\obj\Debug\net7.0\MyTutorial.csproj.CoreCompileInputs.cache
+C:\Users\GIDEON QA\source\repos\DotNetTutorial\MyTutorial\obj\Debug\net7.0\MyTutorial.dll
+C:\Users\GIDEON QA\source\repos\DotNetTutorial\MyTutorial\obj\Debug\net7.0\refint\MyTutorial.dll
+C:\Users\GIDEON QA\source\repos\DotNetTutorial\MyTutorial\obj\Debug\net7.0\MyTutorial.pdb
+C:\Users\GIDEON QA\source\repos\DotNetTutorial\MyTutorial\obj\Debug\net7.0\MyTutorial.genruntimeconfig.cache
+C:\Users\GIDEON QA\source\repos\DotNetTutorial\MyTutorial\obj\Debug\net7.0\ref\MyTutorial.dll
