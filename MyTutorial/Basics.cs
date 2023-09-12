@@ -46,5 +46,10 @@ namespace MyTutorial
 
             }
         }
+
+        public static string BasicDetails()
+        {
+            return "In the basic details block";
+        }
     }
 }
