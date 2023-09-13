@@ -12,3 +12,17 @@ C:\Users\GIDEON QA\source\repos\DotNetTutorial\functions\obj\Debug\net7.0\refint
 C:\Users\GIDEON QA\source\repos\DotNetTutorial\functions\obj\Debug\net7.0\functions.pdb
 C:\Users\GIDEON QA\source\repos\DotNetTutorial\functions\obj\Debug\net7.0\functions.genruntimeconfig.cache
 C:\Users\GIDEON QA\source\repos\DotNetTutorial\functions\obj\Debug\net7.0\ref\functions.dll
+C:\Users\USER\source\repos\core_csharp\functions\bin\Debug\net7.0\functions.exe
+C:\Users\USER\source\repos\core_csharp\functions\bin\Debug\net7.0\functions.deps.json
+C:\Users\USER\source\repos\core_csharp\functions\bin\Debug\net7.0\functions.runtimeconfig.json
+C:\Users\USER\source\repos\core_csharp\functions\bin\Debug\net7.0\functions.dll
+C:\Users\USER\source\repos\core_csharp\functions\bin\Debug\net7.0\functions.pdb
+C:\Users\USER\source\repos\core_csharp\functions\obj\Debug\net7.0\functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\core_csharp\functions\obj\Debug\net7.0\functions.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\core_csharp\functions\obj\Debug\net7.0\functions.AssemblyInfo.cs
+C:\Users\USER\source\repos\core_csharp\functions\obj\Debug\net7.0\functions.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\core_csharp\functions\obj\Debug\net7.0\functions.dll
+C:\Users\USER\source\repos\core_csharp\functions\obj\Debug\net7.0\refint\functions.dll
+C:\Users\USER\source\repos\core_csharp\functions\obj\Debug\net7.0\functions.pdb
+C:\Users\USER\source\repos\core_csharp\functions\obj\Debug\net7.0\functions.genruntimeconfig.cache
+C:\Users\USER\source\repos\core_csharp\functions\obj\Debug\net7.0\ref\functions.dll
