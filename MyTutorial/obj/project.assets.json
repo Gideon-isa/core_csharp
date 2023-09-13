@@ -8,24 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\GIDEON QA\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GIDEON QA\\source\\repos\\DotNetTutorial\\MyTutorial\\MyTutorial.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\core_csharp\\MyTutorial\\MyTutorial.csproj",
       "projectName": "MyTutorial",
-      "projectPath": "C:\\Users\\GIDEON QA\\source\\repos\\DotNetTutorial\\MyTutorial\\MyTutorial.csproj",
-      "packagesPath": "C:\\Users\\GIDEON QA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GIDEON QA\\source\\repos\\DotNetTutorial\\MyTutorial\\obj\\",
+      "projectPath": "C:\\Users\\USER\\source\\repos\\core_csharp\\MyTutorial\\MyTutorial.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\source\\repos\\core_csharp\\MyTutorial\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\GIDEON QA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
