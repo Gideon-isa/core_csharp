@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\core_csharp\FunctionTwo\bin\Debug\net7.0\FunctionTwo.exe
+C:\Users\USER\source\repos\core_csharp\FunctionTwo\bin\Debug\net7.0\FunctionTwo.deps.json
+C:\Users\USER\source\repos\core_csharp\FunctionTwo\bin\Debug\net7.0\FunctionTwo.runtimeconfig.json
+C:\Users\USER\source\repos\core_csharp\FunctionTwo\bin\Debug\net7.0\FunctionTwo.dll
+C:\Users\USER\source\repos\core_csharp\FunctionTwo\bin\Debug\net7.0\FunctionTwo.pdb
+C:\Users\USER\source\repos\core_csharp\FunctionTwo\obj\Debug\net7.0\FunctionTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\core_csharp\FunctionTwo\obj\Debug\net7.0\FunctionTwo.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\core_csharp\FunctionTwo\obj\Debug\net7.0\FunctionTwo.AssemblyInfo.cs
+C:\Users\USER\source\repos\core_csharp\FunctionTwo\obj\Debug\net7.0\FunctionTwo.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\core_csharp\FunctionTwo\obj\Debug\net7.0\FunctionTwo.dll
+C:\Users\USER\source\repos\core_csharp\FunctionTwo\obj\Debug\net7.0\refint\FunctionTwo.dll
+C:\Users\USER\source\repos\core_csharp\FunctionTwo\obj\Debug\net7.0\FunctionTwo.pdb
+C:\Users\USER\source\repos\core_csharp\FunctionTwo\obj\Debug\net7.0\FunctionTwo.genruntimeconfig.cache
+C:\Users\USER\source\repos\core_csharp\FunctionTwo\obj\Debug\net7.0\ref\FunctionTwo.dll
