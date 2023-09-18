@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\core_csharp\BytesString\bin\Debug\net7.0\BytesString.exe
+C:\Users\USER\source\repos\core_csharp\BytesString\bin\Debug\net7.0\BytesString.deps.json
+C:\Users\USER\source\repos\core_csharp\BytesString\bin\Debug\net7.0\BytesString.runtimeconfig.json
+C:\Users\USER\source\repos\core_csharp\BytesString\bin\Debug\net7.0\BytesString.dll
+C:\Users\USER\source\repos\core_csharp\BytesString\bin\Debug\net7.0\BytesString.pdb
+C:\Users\USER\source\repos\core_csharp\BytesString\obj\Debug\net7.0\BytesString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\core_csharp\BytesString\obj\Debug\net7.0\BytesString.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\core_csharp\BytesString\obj\Debug\net7.0\BytesString.AssemblyInfo.cs
+C:\Users\USER\source\repos\core_csharp\BytesString\obj\Debug\net7.0\BytesString.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\core_csharp\BytesString\obj\Debug\net7.0\BytesString.dll
+C:\Users\USER\source\repos\core_csharp\BytesString\obj\Debug\net7.0\refint\BytesString.dll
+C:\Users\USER\source\repos\core_csharp\BytesString\obj\Debug\net7.0\BytesString.pdb
+C:\Users\USER\source\repos\core_csharp\BytesString\obj\Debug\net7.0\BytesString.genruntimeconfig.cache
+C:\Users\USER\source\repos\core_csharp\BytesString\obj\Debug\net7.0\ref\BytesString.dll
